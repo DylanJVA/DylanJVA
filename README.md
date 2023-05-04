@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Dylan! I study physics at Syracuse University. 
+- 🔭 I’m currently working on building a foundation in graduate-level physics to use towards future theoretical research.
+- 🌱 I’m currently learning how lattices are implemented in QCD and Quantum Gravity research simulations. 
+- 💬 Ask me about astronomy and quantum computing! I have experience as a Teaching Assistant in both of these topics.
 <!--
 **DylanJVA/DylanJVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
